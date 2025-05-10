@@ -1,27 +1,33 @@
-# HotelApp
+# Hotel-App with Services , Forms and Routing
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
+# Appointment Booking App (Angular 17)
+This is a simple Appointment Booking Web App built using Angular 17.
+It demonstrates key Angular concepts including:
 
-## Development server
+Component-based architecture
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+One-way & Two-way Data Binding
 
-## Code scaffolding
+Use of Interfaces for data models
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Reactive Forms (for validation)
 
-## Build
+Add / View / Delete Appointment functionality
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+The app allows users to add, view, and delete appointments in a user-friendly UI.
+It's a beginner-to-intermediate level project ideal for learning core Angular skills.
 
-## Running unit tests
+🔧 Tech Stack
+Angular 17
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+TypeScript
 
-## Running end-to-end tests
+HTML + CSS (No external UI libraries used)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+# Preview
 
-## Further help
+![image](https://github.com/user-attachments/assets/7160cb95-be73-4d23-8c8e-3e178751cc57)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![image](https://github.com/user-attachments/assets/8c229b56-800f-413a-94c1-5409bb2cad9f)
+
+
